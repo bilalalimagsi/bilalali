@@ -1,0 +1,41 @@
+h1{
+    color: chocolate;
+background-color: chartreuse;
+text-align: center;
+padding: 15px;
+text-decoration: double;
+display: inline-block;
+
+}
+#para1 {
+  text-align: center;
+  color: red;
+}
+.book{
+text-align: center;
+background-color: blueviolet;
+color: chocolate;
+padding: 15px;
+}
+.bilal{
+  color: black;
+  font: 30px;
+  }
+  p{
+  background-color:rgb(31, 82, 177); 
+  color: white;
+  padding: 15px;
+  display: inline-block;
+  }
+  a:link, a:visited{
+      background-color: rgb(5, 0, 0);
+      color: white;
+      padding: 15px;
+      margin: 12px;
+      text-decoration: none;
+  }
+  a:hover,a:active{
+  background-color: rgb(245, 5, 5);
+  
+  }
+
